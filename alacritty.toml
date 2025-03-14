@@ -3,7 +3,7 @@ family = "Hack Nerd Font"
 style = "Regular"
 
 [window]
-decorations = "buttonless"
+decorations = "Transparent"
 decorations_theme_variant = "None"
 dynamic_padding = true
 dynamic_title = true
@@ -13,7 +13,7 @@ title = "Alacritty"
 
 [window.padding]
 x = 10
-y = 10
+y = 30
 
 [keyboard]
 bindings = [
