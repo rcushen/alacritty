@@ -3,8 +3,8 @@ theme = tokyonight
 font-family = BerkeleyMono Nerd Font
 # Iosevka is also good!
 window-padding-x = 10
-window-padding-y = 10
-background-opacity = 0.7
+window-padding-y = 0
+background-opacity = 0.9
 background-blur = true
 
 cursor-style = block
